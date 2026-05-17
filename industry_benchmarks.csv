@@ -1,0 +1,6 @@
+industry,market_avg_delay,industry_risk_index
+Retail,15,0.8
+Manufacturing,5,0.2
+Tech,3,0.3
+Healthcare,2,0.1
+Construction,25,0.9
