@@ -5,7 +5,7 @@ An enterprise-grade Financial Intelligence platform designed for B2B (Business-t
 Rather than standard descriptive tracking, this application couples an active **Prescriptive Decision Layer** with a dynamic **Recession Stress-Test Engine** to deliver predictive and actionable portfolio insights.
 
 ## 🚀 Live Application & Resources
-* **Live Web App:** [Insert your Live Streamlit Cloud URL here]
+* **Live Web App:** [https://b2b-trade-credit-risk-intelligence-jzzyqwxqjx8n6nxfj6wvct.streamlit.app/]
 * **Code Repository:** https://github.com/Simran-Padhi/b2b-trade-credit-risk-intelligence.git
 
 ## 🛠️ Tech Stack & Architecture
